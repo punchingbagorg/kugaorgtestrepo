@@ -1,0 +1,24 @@
+{
+    "name": "kugaorgtestrepo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kugaorg/kugaorgtestrepo.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kugaorg/kugaorgtestrepo/issues"
+    },
+    "homepage": "https://github.com/kugaorg/kugaorgtestrepo#readme",
+    "dependencies": {
+        "ajv": "^6.5.5",
+        "gulp-minify-css": "^1.2.4",
+        "minimatch": "^2.0.5"
+    }
+}
